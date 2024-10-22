@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'lprplot': Logistic regression partial residual plots Use lprplot With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lprplot.ado
+f lprplot.hlp
