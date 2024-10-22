@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p lprplot Logistic regression partial residual plots Use lprplot With STATA 18
