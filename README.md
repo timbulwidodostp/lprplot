@@ -1,6 +1,8 @@
 # lprplot
 Logistic regression partial residual plots Use lprplot With STATA 18
 
+https://www.youtube.com/watch?v=QBcrna_liPk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
